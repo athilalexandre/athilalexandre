@@ -14,7 +14,7 @@
 🚀 Projetos em Destaque
 &#x20;
 
----
+
 🛍️ Athelier
 
 Plataforma de e-commerce fullstack com recursos robustos de autenticação, carrinho, checkout e área de administração.
