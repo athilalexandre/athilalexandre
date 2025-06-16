@@ -5,7 +5,7 @@
 <h1>🎮 Athila Alexandre</h1>
 
 <p>
-  <strong>Desenvolvedor Front-End, Game Designer e Entusiasta de IA</strong><br>
+  <strong> Desenvolvedor Front-End, Game Designer e Entusiasta de IA </strong><br>
   <em>Transformando ideias em pixels e código desde 2015</em>
 </p>
 
