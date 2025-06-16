@@ -1,8 +1,6 @@
-# 👋 Olá, eu sou o Athila Alexandre
-
 <div align="center">
 
-# 🎮 Athila Alexandre
+# 🎮 Olá, eu sou o Athila Alexandre
 
 <p>
   <strong>Desenvolvedor Front-End, Game Designer e Entusiasta de IA</strong><br>
