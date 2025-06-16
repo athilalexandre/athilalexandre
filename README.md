@@ -9,9 +9,8 @@
   <em>Transformando ideias em pixels e código desde 2015</em>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=490&lines=Desenvolvedor+FullStack+com+toque+criativo;Apaixonado+por+Games%2C+UI%2FUX+e+IA;Vamos+construir+algo+incr%C3%ADvel+juntos%3F;Sempre+buscando+novos+desafios%21" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=490&lines=Apaixonado+por+Games%2C+UI%2FUX+e+IA;Vamos+construir+algo+incr%C3%ADvel+juntos%3F;Sempre+buscando+novos+desafios%21" alt="Typing SVG" />
 
-[![Disponível para projetos](https://img.shields.io/badge/Dispon%C3%ADvel%20para%20Projetos-Sim-brightgreen?style=for-the-badge)](mailto:athilalexandre@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=athilalexandre&style=for-the-badge&color=blue)
 
 </div>
