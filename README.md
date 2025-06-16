@@ -22,14 +22,14 @@
 🎓 Formado em **Desenvolvimento de Jogos Digitais** pela Estácio (2015)
 📍 Atualmente em **Fortaleza, Ceará**
 ✨ Sou um profissional **criativo por natureza e técnico por vocação**, apaixonado por transformar conceitos em experiências digitais.
-🎯 Minha expertise abrange **Front-End robusto, Game Development imersivo, Aplicações com IA inovadoras** e a criação de **experiências interativas** que cativam.
+🎯 Minha expertise abrange **Front-End criativo, Game Development imersivo, Aplicações com IA inovadoras** e a criação de **experiências interativas** que cativam.
 
 ---
 
 ## 💼 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flask,tailwind,prisma,vite,git,github,sqlite,html,css,nextjs,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flask,tailwind,vite,git,github,sqlite,html,css,nextjs,figma" />
   </div>
 
 ---
