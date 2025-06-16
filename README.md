@@ -6,7 +6,7 @@
 
 <p>
   <strong> Desenvolvedor Front-End, Game Designer e Entusiasta de IA </strong><br>
-  <em>Transformando ideias em pixels e código desde 2015</em>
+  <em> Transformando ideias em pixels e código desde 2015 </em>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack+com+toque+criativo;Apaixonado+por+Games%2C+UI%2FUX+e+IA;Vamos+construir+algo+incr%C3%ADvel+juntos%3F" alt="Typing SVG" />
