@@ -12,7 +12,9 @@
 ---
 
 🚀 Projetos em Destaque
+&#x20;
 
+---
 🛍️ Athelier
 
 Plataforma de e-commerce fullstack com recursos robustos de autenticação, carrinho, checkout e área de administração.
@@ -26,7 +28,9 @@ Plataforma de e-commerce fullstack com recursos robustos de autenticação, carr
 📬 Notificações em tempo real via WebSocket e e-mail
 
 🛠️ Stack: React, TypeScript, Tailwind, Node.js, Express, Prisma, SQLite
+&#x20;
 
+---
 🧙 IA Mestre RPG
 
 Um Mestre de RPG digital que usa IA para criar aventuras interativas com base em arquivos PDF, fichas e prompts personalizados.
@@ -40,7 +44,9 @@ Um Mestre de RPG digital que usa IA para criar aventuras interativas com base em
 🧭 Interface leve com Flask e Bootstrap 5
 
 🛠️ Stack: Python, Flask, OpenAI, Bootstrap
+&#x20;
 
+---
 🎬 Anime Master
 
 Plataforma web para fãs de anime com sistema de avaliações, modo escuro e busca inteligente integrada à Jikan API.
@@ -52,7 +58,9 @@ Plataforma web para fãs de anime com sistema de avaliações, modo escuro e bus
 🎨 Design moderno e responsivo com modo escuro
 
 🛠️ Stack: React, Vite, TailwindCSS, JavaScript, Axios
+&#x20;
 
+---
 📊 GitHub Stats
 
 🏆 Conquistas
@@ -62,7 +70,9 @@ Plataforma web para fãs de anime com sistema de avaliações, modo escuro e bus
 🚀 YOLO Achievement
 
 📅 100+ contribuições no último ano
+&#x20;
 
+---
 📌 Repositórios Fixados
 
 card-animation-001 — Animação em CSS para cards
@@ -74,7 +84,9 @@ starbucks-copy-lp — Cópia de landing page da Starbucks
 projeto_abas_cdz — Projeto em HTML com abas do Cavaleiros do Zodíaco
 
 Projeto_CBLOL2023_1.0 — Página inspirada na identidade do CBLOL 2023
+&#x20;
 
+---
 🤝 Vamos Colaborar?
 
 📬 athilalexandre@gmail.com
