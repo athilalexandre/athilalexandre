@@ -1,86 +1,82 @@
 # 👋 Olá, eu sou o Athila Alexandre
 
-🎮 Desenvolvedor apaixonado.
-💻 Transformando ideias em pixels e código.
-🎓 Formado em Desenvolvimento de Jogos Digitais pela Estácio (2015).
-📍 Fortaleza, Ceará | 🌐 Foco em Front-End, Games e Aplicações com IA.
+🧠 Sobre Mim
+
+🎓 Formado em Desenvolvimento de Jogos Digitais pela Estácio (2015)
+📍 Fortaleza, Ceará
+💡 Criativo por natureza, técnico por vocação
+🌐 Foco em Front-End, Games, Aplicações com IA e experiências interativas
 
 &#x20;
 
 ---
 
-## 💼 Minhas Tecnologias
+🚀 Projetos em Destaque
 
-**Front-End**
-React, TypeScript, TailwindCSS, JavaScript, Vite, React Router DOM
+🛍️ Athelier
 
-**Back-End**
-Node.js, Express.js, Prisma ORM, SQLite, JWT
+Plataforma de e-commerce fullstack com recursos robustos de autenticação, carrinho, checkout e área de administração.
 
-**IA e Automações**
-Python, Flask, OpenAI API, Google Generative AI
+🔐 Autenticação com JWT, verificação por e-mail e recuperação de senha
 
-**Outros**
-Git, GitHub, Bootstrap, EmailJS, react-toastify
+🛒 Carrinho persistente no localStorage
 
----
+📦 Sistema completo de pedidos com back e front modernos
 
-## 🚀 Projetos em Destaque
+📬 Notificações em tempo real via WebSocket e e-mail
 
-### 🛍️ [Athelier](https://github.com/athilalexandre/athelier) (Em Desenvolvimento com AI)
+🛠️ Stack: React, TypeScript, Tailwind, Node.js, Express, Prisma, SQLite
 
-**E-commerce completo** com frontend e backend integrados.
+🧙 IA Mestre RPG
 
-* 🔐 Autenticação JWT com recuperação de senha e verificação por e-mail.
-* 🛒 Carrinho de compras com persistência no localStorage e interface moderna.
-* 🧾 Checkout completo, gerenciamento de pedidos e avaliações de produtos.
-* 💬 Integração com WebSockets e notificações via e-mail e push.
+Um Mestre de RPG digital que usa IA para criar aventuras interativas com base em arquivos PDF, fichas e prompts personalizados.
 
-> Tecnologias: React, TypeScript, TailwindCSS, Node.js, Express, Prisma, SQLite
+🤖 IA integrada com OpenAI e Google Gemini
 
----
+📝 Geração de aventuras e fichas via Markdown
 
-### 🧙 [IA Mestre RPG](https://github.com/athilalexandre/ia-mestre-rpg) (Em Desenvolvimento com AI)
+📁 Upload de materiais em PDF para análise
 
-**Aplicação web** que atua como mestre de RPG com inteligência artificial.
+🧭 Interface leve com Flask e Bootstrap 5
 
-* 🧠 Geração automática de aventuras e fichas de personagens via IA.
-* 📄 Suporte a upload de PDFs com leitura e análise automática.
-* 🌐 Integração com OpenAI (ChatGPT) e Google Gemini (via generative AI).
-* 🖥️ Interface em Flask com Bootstrap 5, leve e responsiva.
+🛠️ Stack: Python, Flask, OpenAI, Bootstrap
 
-> Tecnologias: Python, Flask, OpenAI API, Bootstrap
+🎬 Anime Master
 
----
+Plataforma web para fãs de anime com sistema de avaliações, modo escuro e busca inteligente integrada à Jikan API.
 
-### 🎬 [Anime Master](https://github.com/athilalexandre/anime-master) (Em Desenvolvimento com AI)
+🔎 Busca inteligente com sugestões dinâmicas
 
-**App web de animes** com buscas inteligentes e sistema de avaliações.
+⭐ Avaliação pessoal salva no navegador
 
-* 🔎 Integração com a API Jikan para busca e detalhes dos animes.
-* ⭐ Sistema de avaliação pessoal salvo localmente no navegador.
-* 🎨 Design moderno com suporte a modo claro/escuro.
+🎨 Design moderno e responsivo com modo escuro
 
-> Tecnologias: React, TailwindCSS, Vite, JavaScript, Axios
+🛠️ Stack: React, Vite, TailwindCSS, JavaScript, Axios
 
----
+📊 GitHub Stats
 
-## 📫 Como me encontrar
+🏆 Conquistas
 
-* 🌐 [LinkedIn](https://www.linkedin.com/in/athila-alexandre/)
-* 📧 [athilalexandre@gmail.com](mailto:athilalexandre@gmail.com)
+🦈 Pull Shark x2
 
----
+🚀 YOLO Achievement
 
-⭐ Sinta-se à vontade para explorar meus projetos, dar uma estrela ⭐ ou entrar em contato para colaborações!
+📅 100+ contribuições no último ano
 
----
+📌 Repositórios Fixados
 
-🏆 **Conquistas do GitHub**
+card-animation-001 — Animação em CSS para cards
 
-* Pull Shark 🦈 x2
-* YOLO 🚀
+mario-jump-aa — Interação de pulo com tema Mario
 
-📌 **Repositórios em Destaque**: `card-animation-001`, `mario-jump-aa`, `starbucks-copy-lp`, `projeto_abas_cdz`, `Projeto_CBLOL2023_1.0`
+starbucks-copy-lp — Cópia de landing page da Starbucks
 
-📊 **108 contribuições no último ano**
+projeto_abas_cdz — Projeto em HTML com abas do Cavaleiros do Zodíaco
+
+Projeto_CBLOL2023_1.0 — Página inspirada na identidade do CBLOL 2023
+
+🤝 Vamos Colaborar?
+
+📬 athilalexandre@gmail.com
+🔗 LinkedIn
+🐙 GitHub
