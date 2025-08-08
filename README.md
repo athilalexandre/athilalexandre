@@ -56,7 +56,7 @@ Minhas principais áreas de atuação são:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athilalexandre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Athila's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athilalexandre&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=athilalexandre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=athilalexandre&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
