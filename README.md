@@ -1,7 +1,7 @@
 <div align="center">
 
-  # Athila Alexandre
-  ### Desenvolvedor Front-End | Game Designer | Entusiasta de IA
+  Athila Alexandre
+  Desenvolvedor Front-End | Game Designer | Entusiasta de IA
 
   *Transformando ideias em pixels e código desde 2015*
 
