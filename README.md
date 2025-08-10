@@ -1,7 +1,7 @@
 <div align="center">
 
-  Athila Alexandre
-  Desenvolvedor Front-End | Game Designer | Entusiasta de IA
+  # Athila Alexandre
+  ### Desenvolvedor Front-End | Game Designer | Entusiasta de IA
 
   *Transformando ideias em pixels e código desde 2015*
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 💡 Sobre Mim
+## 💡 Sobre Mim 💡
 
 Profissional criativo por natureza e técnico por vocação, apaixonado por transformar conceitos em experiências digitais memoráveis. Com formação em **Desenvolvimento de Jogos Digitais** (Estácio, 2015) e atuando de Fortaleza-CE, meu foco é unir design e tecnologia para criar soluções inovadoras.
 
@@ -72,15 +72,15 @@ Minhas principais áreas de atuação são:
 
 ---
 
-## 📫 Entre em Contato
+## 📧 Entre em Contato 📧
 
 Estou sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
 
 <div align="center">
 
-  [athilalexandre@gmail.com](mailto:athilalexandre@gmail.com) •
-  [LinkedIn](https://www.linkedin.com/in/athila-alexandre/) •
-  [GitHub](https://github.com/athilalexandre)
+  <a href="mailto:athilalexandre@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+  <a href="https://www.linkedin.com/in/athila-alexandre/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+  <a href="https://github.com/athilalexandre" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
 
 </div>
 
