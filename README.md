@@ -333,39 +333,6 @@ Implementation of core jumping mechanics and game logic using vanilla JavaScript
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ████████████████████████████ ACHIEVEMENTS ██████████████████████████████████ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/athilalexandre">
-  <img src="https://github-profile-trophy.vercel.app/?username=athilalexandre&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
-<br/>
-
-### ⭐ Code Demonstrations
-
-| Repository | Focus Area | Description |
-|:-----------|:-----------|:------------|
-| **Card Animation 001** | CSS Animations | Advanced UI component animations and transitions |
-| **Starbucks Copy LP** | Pixel Perfect | Design fidelity and responsive implementation |
-| **Projeto Abas CDZ** | DOM Manipulation | Interactive component development |
-| **CBLOL 2023** | Visual Identity | Modern web design trends study |
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- █████████████████████████████ CONTACT ██████████████████████████████████████ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -392,7 +359,7 @@ Implementation of core jumping mechanics and game logic using vanilla JavaScript
 <br/><br/>
 
 ```
-💼 Available for freelance projects and full-time opportunities
+💼 Available for freelance projects
 🌍 Remote-friendly | Based in Brazil (UTC-3)
 💬 Languages: Portuguese (Native) | English (Professional)
 ```
