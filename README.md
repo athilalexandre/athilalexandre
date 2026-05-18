@@ -181,7 +181,10 @@ I'm a **multidisciplinary developer** passionate about creating digital experien
 <br/><br/>
 
 ### 🎨 Creative Suite & Game Dev
-<img src="https://skillicons.dev/icons?i=figma,unity,ps,ae,pr&theme=dark" alt="Creative Suite"/>
+<img src="https://skillicons.dev/icons?i=figma,unity,unreal,ps,ae,pr&theme=dark" alt="Creative Suite"/>
+
+<br/><br/>
+![Mixcraft](https://img.shields.io/badge/Mixcraft-1E1E1E?style=for-the-badge)
 
 </div>
 
