@@ -154,28 +154,28 @@ I'm a **multidisciplinary developer** passionate about creating digital experien
 <!-- █████████████████████████████ TECH STACK ███████████████████████████████████ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
 <!-- Primary Stack -->
-### ⚡ Core Technologies
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind&theme=dark" alt="Core Technologies"/>
+### ⚡ Core & Languages
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,tailwind&theme=dark" alt="Core Technologies"/>
 
 <br/><br/>
 
 ### 🔧 Frameworks & Runtime
-<img src="https://skillicons.dev/icons?i=nextjs,vite,nodejs,express&theme=dark" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,nestjs&theme=dark" alt="Frameworks"/>
 
 <br/><br/>
 
-### 🗄️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Tools"/>
+### 🗄️ Database, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vscode&theme=dark" alt="Tools"/>
 
 <br/><br/>
 
-### 🎨 Creative Suite
-<img src="https://skillicons.dev/icons?i=ps,ae,pr,ai&theme=dark" alt="Creative Suite"/>
+### 🎨 Creative Suite & Game Dev
+<img src="https://skillicons.dev/icons?i=figma,unity,ps,ae,pr&theme=dark" alt="Creative Suite"/>
 
 </div>
 
@@ -184,10 +184,10 @@ I'm a **multidisciplinary developer** passionate about creating digital experien
 <!-- Additional Badges -->
 <div align="center">
 
+![AI/LLM Integration](https://img.shields.io/badge/AI_/_LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![SaaS Architecture](https://img.shields.io/badge/SaaS_Architecture-005571?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![AI/LLM](https://img.shields.io/badge/AI_/_LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive_Design-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Game Design](https://img.shields.io/badge/Game_Design-E34F26?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
@@ -202,7 +202,7 @@ I'm a **multidisciplinary developer** passionate about creating digital experien
 <!-- ████████████████████████ FEATURED PROJECTS █████████████████████████████████ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Destaques | Featured Projects
 
 <div align="center">
 
@@ -212,38 +212,20 @@ I'm a **multidisciplinary developer** passionate about creating digital experien
 
 <td width="50%" valign="top">
 
-### 📝 Lista Fácil
+### 🛡️ StreamForge (SaaS)
 
-<a href="https://github.com/athilalexandre/lista-facil-app">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+<a href="https://github.com/athilalexandre/StreamForge">
+  <img src="https://img.shields.io/badge/Private_SaaS-68217A?style=for-the-badge&logo=react&logoColor=white" alt="SaaS"/>
 </a>
 
-**Modern Shopping List Manager**
+<br/>
 
-A sleek, intuitive app for managing shopping lists with local persistence, dark/light themes, and a responsive UX-first design.
+**[BR]** Plataforma SaaS robusta que automatiza interações para criadores de conteúdo (bots, hubs, gestão).  
+**[EN]** Robust SaaS platform that automates interactions for content creators (bots, hubs, management).
 
-`React` `JavaScript` `CSS` `LocalStorage`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👾 Digimon Searcher
-
-<a href="https://github.com/athilalexandre/digimon-searcher">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-</a>
-
-**Full-Stack Digimon Database**
-
-Complete solution for searching and filtering Digimon creatures with a custom Node.js backend serving a local dataset.
-
-`Node.js` `Express` `JavaScript` `REST API`
+`TypeScript` `Next.js` `Node.js` `WebSocket`
 
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 
@@ -253,27 +235,49 @@ Complete solution for searching and filtering Digimon creatures with a custom No
   <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
-**Anime Discovery Platform**
+<br/>
 
-Comprehensive platform for anime fans to discover, rate, and organize titles using Jikan API with custom themes.
+**[BR]** Plataforma para fãs de anime descobrirem e organizarem títulos usando a Jikan API.  
+**[EN]** Comprehensive platform for anime fans to discover and organize titles using Jikan API.
 
 `React` `Vite` `Tailwind CSS` `Jikan API`
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
-### 🎮 Mario Jump
+### 👾 Digimon Searcher
 
-<a href="https://github.com/athilalexandre/mario-jump-aa">
+<a href="https://github.com/athilalexandre/digimon-searcher">
   <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
-**Classic Game Mechanics**
+<br/>
 
-Implementation of core jumping mechanics and game logic using vanilla JavaScript and CSS animations.
+**[BR]** Aplicação Full-Stack para buscar dados na customizada API REST do universo Digimon.  
+**[EN]** Full-Stack application to search data from a custom RESTful API of the Digimon universe.
 
-`JavaScript` `HTML` `CSS` `Game Logic`
+`Node.js` `Express` `React` `REST API`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏪 Athelier E-commerce
+
+<a href="https://github.com/athilalexandre/athelier">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+
+<br/>
+
+**[BR]** Plataforma de E-commerce full-stack com integração de pagamentos e painel admin.  
+**[EN]** Robust full-stack e-commerce platform with payment integration and an admin panel.
+
+`React` `Node.js` `PostgreSQL` `Prisma`
 
 </td>
 
