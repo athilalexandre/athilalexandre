@@ -173,6 +173,12 @@ I'm a **multidisciplinary developer** passionate about creating digital experien
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vscode&theme=dark" alt="Tools"/>
 
 <br/><br/>
+![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge)
+![Cursor Backgrounds](https://img.shields.io/badge/Cursor_Backgrounds-1E1E1E?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
+
+<br/><br/>
 
 ### 🎨 Creative Suite & Game Dev
 <img src="https://skillicons.dev/icons?i=figma,unity,ps,ae,pr&theme=dark" alt="Creative Suite"/>
